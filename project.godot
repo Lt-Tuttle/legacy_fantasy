@@ -15,7 +15,7 @@ ss2d/version="3.3.1"
 [application]
 
 config/name="legacy_fantasy"
-run/main_scene="uid://hix35hd1et02"
+run/main_scene="uid://y7t32k1uxrh"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 
 [display]
